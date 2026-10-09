@@ -1,0 +1,3 @@
+DevOps helps software teams deliver updates more reliably by bringing development and operations closer together. Instead of waiting until the end of a project to find problems, teams can test their changes throughout the development process.
+
+Tools that automate testing and deployment can reduce repetitive work and help developers catch mistakes earlier. This makes it easier to maintain applications and release improvements without disrupting users as often.
