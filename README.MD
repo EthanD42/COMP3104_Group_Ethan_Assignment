@@ -15,7 +15,7 @@ Each account works on a separate branch. Changes are merged into `main` through 
 
 ## Project Goals
 
-The goal of this project is to demonstrate how Git and GitHub can be used to manage software development work. It also shows how separate branches, pull requests, and automated workflows help keep changes organized and make it easier to check code before merging.
+The goal of this project is to show  how Git and GitHub can be used to manage software development work. It also shows how separate branches, pull requests, and automated workflows help keep changes organized and make it easier to check code before merging.
 
 ## CI/CD
 
