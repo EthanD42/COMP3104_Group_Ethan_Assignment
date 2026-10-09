@@ -1,0 +1,3 @@
+DevOps is important in the SDLC because it helps developers work together and makes the process of developing software more efficient.
+ It helps find problems earlier through the testing and automation, which can save time and make sure the software works properly.
+  It also helps teams release updates faster and makes it easier to maintain and improve the software.

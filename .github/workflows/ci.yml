@@ -1,0 +1,22 @@
+
+name: COMP3104 CI
+
+on:
+  push:
+    branches:
+      - main
+      - Ethan-account2
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  basic-ci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Display CI message
+        run: echo "COMP3104 GitHub Actions CI is running successfully"
+
+      - name: Confirm workflow completion
+        run: echo "Basic CI checks completed"
