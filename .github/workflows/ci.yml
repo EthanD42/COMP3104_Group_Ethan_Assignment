@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - main
+      - 101579407-Ethan
       - Ethan-account2
   pull_request:
     branches:
@@ -15,8 +16,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Display CI message
-        run: echo "COMP3104 GitHub Actions CI is running successfully"
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Confirm workflow completion
-        run: echo "Basic CI checks completed"
+      - name: Check required assignment files
+        run: |
+          test -f README.MD
+          test -f 101579407_gb.txt
+          test -f 101579407_devops.txt
+          test -f 101579407_sdlc.txt
+          test -f jackb42043_gb.txt
+          test -f jackb42043_devops.txt
+          test -f jackb42043_sdlc.txt
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+
+      - name: Display success message
+        run: echo "All required assignment files were found."
