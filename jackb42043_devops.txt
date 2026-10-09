@@ -3,3 +3,4 @@ Students learn to use tools like Git and GitHub, work with CI and CD, manage dif
 The course also teaches students how to work together and properly check their code quality.
 Another important part of DevOps is finding ways to make the development process run more smoothly. By automating repetitive tasks and testing changes regularly, developers can spend more time improving their applications instead of fixing the same problems over and over.
  These practices can also make it easier to keep track of changes when several people are working on the same project.
+  Keeping track of code changes also helps developers understand what was changed if they need to troubleshoot an issue later.
