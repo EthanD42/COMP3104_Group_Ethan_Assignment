@@ -1,3 +1,5 @@
 COMP3104 teaches the students about DevOps practices and how they are used to make software development more efficient and improve their time management while developing.
 Students learn to use tools like Git and GitHub, work with CI and CD, manage different versions of code, and deploy applications.
 The course also teaches students how to work together and properly check their code quality.
+Another important part of DevOps is finding ways to make the development process run more smoothly. By automating repetitive tasks and testing changes regularly, developers can spend more time improving their applications instead of fixing the same problems over and over.
+ These practices can also make it easier to keep track of changes when several people are working on the same project.
