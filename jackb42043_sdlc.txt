@@ -1,3 +1,7 @@
 DevOps is important in the SDLC because it helps developers work together and makes the process of developing software more efficient.
  It helps find problems earlier through the testing and automation, which can save time and make sure the software works properly.
   It also helps teams release updates faster and makes it easier to maintain and improve the software.
+  Another benefit is that DevOps makes it easier for teams to respond when requirements change during a project.
+   Developers can use feedback and regular updates to decide what needs to be improved next.
+    This helps the team keep the software useful and make changes without having to redo the entire development process.
+    Planning, testing, and reviewing changes throughout the process helps the team avoid leaving too many problems until the final stage.
