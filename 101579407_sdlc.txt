@@ -1,0 +1,3 @@
+DevOps plays an important role in the Software Development Life Cycle because it connects the different stages of building and maintaining software. Developers can work on new features while also making sure the application stays reliable.
+
+By using automated tests and regular updates, teams can identify issues before they become bigger problems. This helps make the development process more organized and allows software to improve over time.
