@@ -13,6 +13,10 @@ This repository contains the COMP3104 DevOps group assignment. It shows Git vers
 
 Each account works on a separate branch. Changes are merged into `main` through pull requests.
 
+## Project Goals
+
+The goal of this project is to show  how Git and GitHub can be used to manage software development work. It also shows how separate branches, pull requests, and automated workflows help keep changes organized and make it easier to check code before merging.
+
 ## CI/CD
 
 GitHub Actions will be configured to auto run when changes are pushed to the repository.
