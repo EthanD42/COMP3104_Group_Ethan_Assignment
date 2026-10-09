@@ -34,6 +34,10 @@ The repository has a GitHub Actions workflow that runs when changes are pushed t
 
 The workflow file is located at `.github/workflows/ci.yml`.
 
+## Benefits of Version Control
+
+Version control helps developers keep track of changes made to a project over time. Branches allow team members to work on separate features without immediately changing the main branch. Pull requests also give team members a chance to review changes before they are merged, helping keep the project organized.
+
 ## Pull Request Template
 
 The repository also has a pull request template to help keep pull requests organized and make it easier to check changes before merging them. It is located at `.github/PULL_REQUEST_TEMPLATE.md`.
