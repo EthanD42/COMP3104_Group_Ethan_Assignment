@@ -1,1 +1,25 @@
-George Brown College - Overview
+George Brown College (GBC) - Information
+
+George Brown College is a public college located in Toronto, Ontario, Canada.
+It was founded in 1967 and is named after George Brown, a Father of
+Confederation and founder of the Toronto Globe newspaper.
+
+Key Facts:
+- Campuses: St. James Campus, Casa Loma Campus, Waterfront Campus,
+  and Sun Life Financial Centre
+- Programs: Offers over 170 full-time programs across areas including
+  business, health sciences, technology, design, and hospitality
+- Student Population: Approximately 30,000+ full-time students
+- Focus Areas: GBC is known for hands-on, career-focused education
+  and strong industry partnerships
+
+Notable Features:
+- Strong ties to Toronto's business and tech community
+- Applied research opportunities for students
+- Diverse student body from over 100 countries
+- Pathways to university degrees through partnerships
+
+Relevance:
+As a student in the Computer Programming program, George Brown College
+provides practical skills in programming, software development, and
+DevOps practices that are directly applicable to the tech industry.
