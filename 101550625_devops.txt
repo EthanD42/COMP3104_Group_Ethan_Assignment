@@ -28,7 +28,7 @@ Course Format:
 - Lectures and hands-on lab exercises
 - Group assignments that simulate real-world DevOps workflows
 - Individual and collaborative coding tasks
-- Use of industry-standard tools (Git, GitHub, CI/CD platforms)
+- Use of industry standard tools (Git, GitHub, CI/CD platforms)
 
 Importance:
 This course prepares students for careers in software development,
