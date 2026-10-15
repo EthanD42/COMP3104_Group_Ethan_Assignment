@@ -1,4 +1,4 @@
-The Importance of DevOps in the Software Development Lifecycle (SDLC)
+The Importance of DevOps in the Software Development Lifecycle SDLC
 
 What is DevOps?
 DevOps is a set of practices, cultural philosophies, and tools that
