@@ -8,6 +8,7 @@ This repository contains the COMP3104 DevOps group assignment. It shows Git vers
 
 - **Team Leader:** Ethan Dennis — [EthanD42](https://github.com/EthanD42)
 - **Team Member 2:** Ethan Dennis Second Account - [jackb42043](https://github.com/jackb42043)
+- **Team Member 3:** Omar Butt (101550625) - [omarbutt401-del](https://github.com/omarbutt401-del)
 
 ## Branching Strategy
 
@@ -27,6 +28,7 @@ Each account has its own branch to work on its changes before merging them into 
 
 - `101579407-Ethan` — Ethan Dennis's main account.
 - `Ethan-account2` — Ethan Dennis's second account.
+- `101550625-OmarButt` — Omar Butt's branch.
 
 ## GitHub Actions
 
