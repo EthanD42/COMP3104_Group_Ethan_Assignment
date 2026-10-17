@@ -1,0 +1,10 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality.
+In COMP 3104, we explore version control, CI/CD pipelines, and collaborative Git workflows.
+Additional DevOps note #1
+Additional DevOps note #2
+Additional DevOps note #3
+Additional DevOps note #4
+Additional DevOps note #5
+Additional DevOps note #6
+Additional DevOps note #7

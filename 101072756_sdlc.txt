@@ -1,0 +1,3 @@
+The Software Development Life Cycle (SDLC) is a framework used to structure the development of software.
+DevOps is crucial in the SDLC because it bridges the gap between development and operations.
+It promotes automation, continuous feedback, and faster time-to-market.
