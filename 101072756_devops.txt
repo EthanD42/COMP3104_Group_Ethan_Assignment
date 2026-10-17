@@ -7,3 +7,4 @@ Additional DevOps note #3
 Additional DevOps note #4
 Additional DevOps note #5
 Additional DevOps note #6
+Additional DevOps note #7
