@@ -3,3 +3,4 @@ It aims to shorten the systems development life cycle and provide continuous del
 In COMP 3104, we explore version control, CI/CD pipelines, and collaborative Git workflows.
 Additional DevOps note #1
 Additional DevOps note #2
+Additional DevOps note #3
